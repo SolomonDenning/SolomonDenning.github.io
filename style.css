@@ -1,0 +1,36 @@
+/* Base styling */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2; /* Light grey */
+    color: #333333; /* Dark grey */
+}
+
+/* Header styling */
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff; /* White */
+    color: #00b300; /* Light green */
+    border-bottom: 2px solid #dddddd; /* Light grey border */
+}
+
+h1 {
+    margin: 0;
+}
+
+/* Image container styling */
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    height: 300px; /* Placeholder height */
+    border: 2px dashed #cccccc; /* Light grey dashed border */
+}
+
+.image-container img {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+}
