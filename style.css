@@ -10,9 +10,9 @@ body {
 header {
     text-align: center;
     padding: 20px;
-    background-color: #ffffff; /* White */
-    color: #00b300; /* Light green */
-    border-bottom: 2px solid #dddddd; /* Light grey border */
+    background-color: #000000; /* Black */
+    color: #0FFFFF; /* Light Blue */
+    border-bottom: 2px solid #ddd000; /* Yellow border */
 }
 
 h1 {
